@@ -46,9 +46,9 @@ I specialize in **Kubernetes, Terraform, CI/CD automation, and platform engineer
 
 ## 📈 Key Achievements
 
-📉 30% ↓ Environment Drift (IaC standardization)
-🚀 40% ↑ Deployment Speed (CI/CD automation)
-📡 25% ↑ System Uptime (Observability improvements)
+📉 30% ↓ Environment Drift (IaC standardization)<br>
+🚀 40% ↑ Deployment Speed (CI/CD automation)<br>
+📡 25% ↑ System Uptime (Observability improvements)<br>
 👨‍💻 20% ↑ Developer Productivity
 
 
@@ -78,22 +78,21 @@ I specialize in **Kubernetes, Terraform, CI/CD automation, and platform engineer
 
 Code → Build → Test → Docker → Kubernetes → Monitor → Improve
 
-
 ---
 
 ## 😄 Fun Section
 
 ### DevOps Reality Check
 
-It works on my machine ✔
-It works in staging ✔
+It works on my machine ✔<br>
+It works in staging ✔<br>
 It broke in production 💥
 
 
 ### When Kubernetes behaves:
 
-(•_•)
-<) )╯ everything is fine
+(•_•)<br>
+<) )╯ everything is fine<br>
 / \
 
 
