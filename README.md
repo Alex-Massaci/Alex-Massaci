@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex Massaci
 
-🚀 Senior DevOps Engineer | Cloud Architect | Platform Engineering Specialist  
+Senior DevOps Engineer | Cloud Architect | Platform Engineering Specialist  
 🌍 Bucharest, Romania | 🌐 Multi-Cloud (AWS | Azure | GCP)
 
 ---
@@ -12,62 +12,54 @@
 Senior DevOps Engineer with **8+ years of experience** designing and scaling cloud-native platforms.  
 I specialize in **Kubernetes, Terraform, CI/CD automation, and platform engineering**, helping teams build reliable and scalable systems.
 
-- ☁️ Multi-cloud architecture (AWS / Azure / GCP)
-- ⚙️ Infrastructure as Code expert
-- 🚀 CI/CD & GitOps automation
-- 🔐 DevSecOps & cloud security
-- 📊 Observability & SRE practices
+- Multi-cloud architecture (AWS / Azure / GCP)
+- Infrastructure as Code expert
+- CI/CD & GitOps automation
+- DevSecOps & cloud security
+- Observability & SRE practices
 
 ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infra
+### Cloud & Infra
 | AWS | Azure | GCP | Kubernetes |
-|-----|------|-----|------------|
-| ☁️ | ☁️ | ☁️ | 🚢 |
 
-### ⚙️ IaC & Automation
+### IaC & Automation
 | Terraform | CloudFormation | Pulumi | Ansible |
-|-----------|---------------|--------|--------|
-| 🟣 | 🟠 | 🔵 | 🟡 |
 
-### 🚀 CI/CD
+### CI/CD
 | GitHub Actions | Jenkins | GitLab CI | Azure DevOps |
-|----------------|---------|-----------|--------------|
-| ⚡ | 🔧 | 🧪 | 🔄 |
 
-### 📡 Observability
+### Observability
 | Prometheus | Grafana | ELK Stack | CloudWatch |
-|------------|----------|-----------|------------|
-| 📊 | 📈 | 🔍 | ☁️ |
 
 ---
 
 ## 📈 Key Achievements
 
-📉 30% ↓ Environment Drift (IaC standardization)<br>
-🚀 40% ↑ Deployment Speed (CI/CD automation)<br>
-📡 25% ↑ System Uptime (Observability improvements)<br>
-👨‍💻 20% ↑ Developer Productivity
+30% ↓ Environment Drift (IaC standardization)<br>
+40% ↑ Deployment Speed (CI/CD automation)<br>
+25% ↑ System Uptime (Observability improvements)<br>
+20% ↑ Developer Productivity
 
 
 ---
 
 ## 🏗️ Experience Snapshot
 
-### 🟣 NearForm (Senior DevOps Engineer)
+### NearForm (Senior DevOps Engineer)
 - Multi-cloud Kubernetes architecture (AWS / Azure / GCP)
 - GitOps & CI/CD pipelines (GitHub Actions, Jenkins)
 - DevSecOps integration (IAM, policy-as-code)
 - Enterprise observability (Prometheus, Grafana)
 
-### 🔵 Nymphis
+### Nymphis
 - Azure Kubernetes microservices platform
 - CI/CD pipelines with Jenkins & Azure DevOps
 - Helm-based deployments & HPA scaling
 
-### ☁️ CloudHero
+### CloudHero
 - AWS EKS migrations
 - Terraform-based infrastructure provisioning
 - Monitoring with Prometheus & CloudWatch
