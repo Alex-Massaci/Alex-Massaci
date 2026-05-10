@@ -5,8 +5,7 @@
 
 ---
 
-<img width="1536" height="1024" alt="ChatGPT Image May 10, 2026, 11_48_19 AM" src="https://github.com/user-attachments/assets/cb53090a-59a6-488d-bec7-16c4d853844a" />
-
+<img width="1536" height="1024" alt="github" src="https://github.com/user-attachments/assets/3d99f863-33b0-4db4-8db5-6e335bf6daca" />
 
 ## 🧠 About Me
 
