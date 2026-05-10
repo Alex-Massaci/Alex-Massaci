@@ -91,9 +91,9 @@ It broke in production 💥
 
 ### When Kubernetes behaves:
 
-(•_•)<br>
-<) )╯ everything is fine<br>
-/ \
+ (•_•)<br>
+<)   )╯ everything is fine<br>
+ /  \
 
 
 ---
