@@ -5,6 +5,9 @@
 
 ---
 
+<img width="1536" height="1024" alt="ChatGPT Image May 10, 2026, 11_48_19 AM" src="https://github.com/user-attachments/assets/cb53090a-59a6-488d-bec7-16c4d853844a" />
+
+
 ## 🧠 About Me
 
 Senior DevOps Engineer with **8+ years of experience** designing and scaling cloud-native platforms.  
