@@ -1,6 +1,5 @@
-# 👋 Hi, I'm Alex Massaci
-
-Senior DevOps Engineer | Cloud Architect | Platform Engineering Specialist  
+# 👋 Senior Devops Engineer
+ 
 🌍 Bucharest, Romania | 🌐 Multi-Cloud (AWS | Azure | GCP)
 
 ---
@@ -12,7 +11,7 @@ Senior DevOps Engineer | Cloud Architect | Platform Engineering Specialist
 Senior DevOps Engineer with **8+ years of experience** designing and scaling cloud-native platforms.  
 I specialize in **Kubernetes, Terraform, CI/CD automation, and platform engineering**, helping teams build reliable and scalable systems.
 
-- Multi-cloud architecture (AWS / Azure / GCP)
+- Multi-cloud architecture
 - Infrastructure as Code expert
 - CI/CD & GitOps automation
 - DevSecOps & cloud security
@@ -36,36 +35,6 @@ I specialize in **Kubernetes, Terraform, CI/CD automation, and platform engineer
 
 ---
 
-## 📈 Key Achievements
-
-30% ↓ Environment Drift (IaC standardization)<br>
-40% ↑ Deployment Speed (CI/CD automation)<br>
-25% ↑ System Uptime (Observability improvements)<br>
-20% ↑ Developer Productivity
-
-
----
-
-## 🏗️ Experience Snapshot
-
-### NearForm (Senior DevOps Engineer)
-- Multi-cloud Kubernetes architecture (AWS / Azure / GCP)
-- GitOps & CI/CD pipelines (GitHub Actions, Jenkins)
-- DevSecOps integration (IAM, policy-as-code)
-- Enterprise observability (Prometheus, Grafana)
-
-### Nymphis
-- Azure Kubernetes microservices platform
-- CI/CD pipelines with Jenkins & Azure DevOps
-- Helm-based deployments & HPA scaling
-
-### CloudHero
-- AWS EKS migrations
-- Terraform-based infrastructure provisioning
-- Monitoring with Prometheus & CloudWatch
-
----
-
 ## 📊 DevOps Flow (Simplified)
 
 Code → Build → Test → Docker → Kubernetes → Monitor → Improve
@@ -86,14 +55,6 @@ It broke in production 💥
 &nbsp;(•_•)<br>
 <)&nbsp;&nbsp;&nbsp;)╯ everything is fine<br>
 &nbsp;/&nbsp;&nbsp;&nbsp;\
-
-
----
-
-## 📫 Connect with Me
-
-- 📧 Email: alexmassaci3@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/alex-massaci-b233173b5/
 
 ---
 
