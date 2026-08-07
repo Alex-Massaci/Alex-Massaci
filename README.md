@@ -1,6 +1,6 @@
 # 👋 Senior Devops Engineer
  
-🌍 Bucharest, Romania | 🌐 Multi-Cloud (AWS | Azure | GCP)
+🌍 Tallinn, Estonia | 🌐 Multi-Cloud (AWS | Azure | GCP)
 
 ---
 
